@@ -2,6 +2,12 @@
 
 `react-svg-favicon` is a simple package for using dynamically generated "favicons" in your React app with the power of SVG. You just supply the SVG as regular React components and `react-svg-favicon` handles the rest.
 
+## Demo
+
+You can view a small demo of this library here:
+
+[Favicon Clock](https://svizelpritula.github.io/favicon-clock/) ([source](https://github.com/SvizelPritula/favicon-clock/))
+
 ## Installation
 
 ```sh
