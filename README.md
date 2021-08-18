@@ -1,18 +1,18 @@
-# `react-svg-icon`
+# `react-svg-favicon`
 
-`react-svg-icon` is a simple package for using dynamically generated "favicons" in your React app with the power of SVG. You just supply the SVG as regular React components and `react-svg-icon` handles the rest.
+`react-svg-favicon` is a simple package for using dynamically generated "favicons" in your React app with the power of SVG. You just supply the SVG as regular React components and `react-svg-favicon` handles the rest.
 
 ## Installation
 
 ```sh
-npm install react-svg-icon
+npm install react-svg-favicon
 ```
 
 ## Example usage
 
 ```js
 import { useState } from "react";
-import SVGIcon from "react-svg-icon";
+import SVGIcon from "react-svg-favicon";
 
 export function App() {
   var [notifications, setNotifications] = useState(0);
